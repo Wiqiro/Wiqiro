@@ -9,23 +9,24 @@ My name is William, I'm 18 and I'm currently studying at UTBM in France (4th sem
 
 |Project|Course / Semester|Description|
 |---|---|---|
-| [**Genetic algorithms**](github.com/Wiqiro/LO21-Project) | **LO21** / TC03 | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. |
+| [**Genetic algorithms**](https://github.com/Wiqiro/LO21-Project) | **LO21** / TC03 | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. |
 | [**Mail analyzer**](https://github.com/Wiqiro/LP25-Project-Mail-Analyzer) | **LP25** / TC03 | Multi-threaded email analyzer in C, using the Map-Reduce model |
-| [**Automated shutter**](github.com/Wiqiro/IF3B-Project-Automated-Shutter) | **IF3B** / TC03 | Automated shutter, using esp32 boards and controlled using the Arduino framework along with Node-Red |
+| [**Automated shutter**](https://github.com/Wiqiro/IF3B-Project-Automated-Shutter) | **IF3B** / TC03 | Automated shutter, using esp32 boards and controlled using the Arduino framework along with Node-Red |
+| [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | **IF3E** / TC03 | Beer review website made in php and using SQL Database |
+| [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | **IF2** / TC02 | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.|
+
+### 🖥 Here are some of my personal projects:
+
+|Project|Description|Status|
+|---|---|---|
+| [**TicTacToe**](https://github.com/Wiqiro/TicTacToe-SDL) | Implementation of the TicTacToe game in C, using SDL for the graphics. I also implemented the minimax algotithm, so it is impossible to win !|✔|
+| [**Pentris**](https://github.com/Wiqiro/Pentris) | My original idea was to make a Tetris inspired "game" with polynomios falling from both sides, to experiment with the SDL library in C. I quickly stopped working on it, as I wanted to try other ideas. |✖|
+| [**Polyhexes**](https://github.com/Wiqiro/polyhexes) | This project is similar to [**Pentris**](https://github.com/Wiqiro/Pentris), but with hexagons instead of squares. The main goal was to make clean hexagons using OpenGL. |✖|
+| [**Snake**](https://github.com/Wiqiro/SDL-snake) | Speed-coded snake game in C++ and SDL (joke) |✔|
+| [**Checkers**](https://github.com/Wiqiro/Checkers) | Checkers game as my first C project |✔|
 
 
 
-<!--
-**Wiqiro/Wiqiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiqiro&show_icons=true&locale=en&layout=compact&theme=dark" alt="wiqiro" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiqiro&show_icons=true&locale=en&theme=dark" alt="wiqiro" /></p>
