@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiqiro</h1>
 
 <h3 align="center">Welcome to my Github profile !</h3>
-
+<br><br>
 My name is William, I'm 18 and I'm currently studying at UTBM in France (4th semester).
 
 
@@ -9,8 +9,8 @@ My name is William, I'm 18 and I'm currently studying at UTBM in France (4th sem
 
 |Project|Course / Semester|Description|
 |---|---|---|
-| [**Genetic algorithms**](https://github.com/Wiqiro/LO21-Project) | **LO21** / TC03 | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. |
 | [**Mail analyzer**](https://github.com/Wiqiro/LP25-Project-Mail-Analyzer) | **LP25** / TC03 | Multi-threaded email analyzer in C, using the Map-Reduce model |
+| [**Genetic algorithms**](https://github.com/Wiqiro/LO21-Project) | **LO21** / TC03 | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. |
 | [**Automated shutter**](https://github.com/Wiqiro/IF3B-Project-Automated-Shutter) | **IF3B** / TC03 | Automated shutter, using esp32 boards and controlled using the Arduino framework along with Node-Red |
 | [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | **IF3E** / TC03 | Beer review website made in php and using SQL Database |
 | [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | **IF2** / TC02 | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.|
