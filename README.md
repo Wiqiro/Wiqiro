@@ -26,7 +26,5 @@ My name is William, I'm 18 and I'm currently studying at UTBM in France (4th sem
 | [**Checkers**](https://github.com/Wiqiro/Checkers) | Checkers game as my first C project |✔|
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiqiro&show_icons=true&locale=en&layout=compact&theme=dark" alt="wiqiro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiqiro&show_icons=true&locale=en&theme=dark" alt="wiqiro" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=wiqiro&show_icons=true&locale=en&theme=dark" alt="wiqiro" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiqiro&show_icons=true&locale=en&layout=compact&theme=dark" alt="wiqiro" />
