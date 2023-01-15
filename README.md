@@ -25,6 +25,3 @@ My name is William, I'm 18 and I'm currently studying at UTBM in France (4th sem
 | [**Snake**](https://github.com/Wiqiro/SDL-snake) | Speed-coded snake game in C++ and SDL (joke) |✔|
 | [**Checkers**](https://github.com/Wiqiro/Checkers) | Checkers game as my first C project |✔|
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=wiqiro&show_icons=true&locale=en&theme=dark" alt="wiqiro" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiqiro&show_icons=true&locale=en&layout=compact&theme=dark" alt="wiqiro" />
