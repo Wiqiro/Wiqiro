@@ -2,7 +2,8 @@
 
 <h3 align="center">Welcome to my Github profile !</h3>
 <br><br>
-My name is William, I'm 18 and I'm currently studying at UTBM in France (4th semester).
+My name is William, I'm 18 and and I'm a student at UTBM in France.
+Right now I'm studying at the University of Primorska in Slovenia for my last common course semester !
 
 
 ### 🎓 Here are the projects I've been working on at UTBM:
