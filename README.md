@@ -4,8 +4,6 @@
 <br><br>
 My name is William, I'm 18 and and I'm a student at UTBM in France. 
 
-Right now I'm studying at the University of Primorska in Slovenia for my last common course semester !
-
 
 ### 🎓 Here are the projects I've been working on at UTBM:
 
