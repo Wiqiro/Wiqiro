@@ -20,6 +20,7 @@ My name is William, I'm 18 and and I'm a student at UTBM in France.
 
 |Project|Description|Status|
 |---|---|:---:|
+| [**HyTracker**](https://github.com/Wiqiro/HyTracker) | A Hypixel stats tracking app written in flutter |⋯|
 | [**TicTacToe**](https://github.com/Wiqiro/TicTacToe-SDL) | Implementation of the TicTacToe game in C, using SDL for the graphics. I also implemented the minimax algotithm, so it is impossible to win !|✔|
 | [**Pentris**](https://github.com/Wiqiro/Pentris) | My original idea was to make a Tetris inspired "game" with polynomios falling from both sides, to experiment with the SDL library in C. I quickly stopped working on it, as I wanted to try other ideas. |✖|
 | [**Polyhexes**](https://github.com/Wiqiro/polyhexes) | This project is similar to [**Pentris**](https://github.com/Wiqiro/Pentris), but with hexagons instead of squares. The main goal was to make clean hexagons using OpenGL. |✖|
