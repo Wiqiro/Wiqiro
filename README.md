@@ -7,13 +7,14 @@ My name is William, I'm 18 and and I'm a student at UTBM in France.
 
 ### 🎓 Here are the projects I've been working on at UTBM:
 
-|Project|Description|Course / Semester|
-|---|---|---|
-| [**Mail analyzer**](https://github.com/Wiqiro/LP25-Project-Mail-Analyzer) | Multi-threaded email analyzer in C, using the Map-Reduce model | **LP25** / TC03 |
-| [**Genetic algorithms**](https://github.com/Wiqiro/LO21-Project) | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. | **LO21** / TC03 |
-| [**Automated shutter**](https://github.com/Wiqiro/IF3B-Project-Automated-Shutter) | Automated shutter, using esp32 boards and controlled using the Arduino framework along with Node-Red | **IF3B** / TC03 |
-| [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | Beer review website made in php and using SQL Database | **IF3E** / TC03 |
-| [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.| **IF2** / TC02 |
+|Project|Description|Course|Semester|
+|---|---|---|---|
+| [**Rebrickable analysis**](https://github.com/Wiqiro/Rebrickable-analysis) | Analysis of the rebrickable dataset to extract interesting facts about Lego sets and parts in R | **Data prog.**|TC04 (Erasmus)|
+| [**Mail analyzer**](https://github.com/Wiqiro/LP25-Project-Mail-Analyzer) | Multi-threaded email analyzer in C, using the Map-Reduce model | **LP25**|TC03 |
+| [**Genetic algorithms**](https://github.com/Wiqiro/LO21-Project) | Simplified version of genetic algorithms, used to solve optimization problems, along with a detailed report in french and an implementation in C language. | **LO21**|TC03 |
+| [**Automated shutter**](https://github.com/Wiqiro/IF3B-Project-Automated-Shutter) | Automated shutter, using esp32 boards and controlled using the Arduino framework along with Node-Red | **IF3B**|TC03 |
+| [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | Beer review website made in php and using SQL Database | **IF3E**|TC03 |
+| [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.| **IF2**|TC02 |
 
 ### 🖥 Here are some of my personal projects:
 
