@@ -9,7 +9,7 @@
 <br>
 <h3 align="center">Welcome to my Github profile !</h3>
 <br>
-My name is William. I'm 19 years old, and I'm studying computer engineering at UTBM in France.
+My name is William and I'm studying computer engineering at UTBM in France.
 
 ## Here are some of the projects I've been working on
 
