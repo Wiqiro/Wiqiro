@@ -11,7 +11,7 @@
 <br>
 My name is William and I'm studying computer engineering at UTBM in France.
 
-## Here are some of the projects I've been working on
+## Here are some of the projects I've been working on 💁‍♂️
 
 ### [🍉 PL$tek project](https://github.com/PLStek)
 
@@ -43,6 +43,9 @@ The project was carried out in an agile team of five students, where I served as
 ### 🎓 Course projects at UTBM
 |Project|Description|Course|Year|
 |---|---|---|---|
+| [**Optimization algorithms**](https://github.com/Wiqiro/IT45-optimization-algorithms) | Solving [TSP](# "Travelling salesman problem") with three different [algorithms](# 'Little, Tabu search, Genetic algorithm') | [**IT45**](# "Optimisation et recherche opérationnelle") | 2024 |
+| [**Cologestion**](https://github.com/Wiqiro/SY43-cologestion) | A mobile application designed to help manage shared housing | [**SY43**](# "Android development") | 2024 |
+| [**Simple C messaging server**](https://github.com/Wiqiro/SY40-messaging-server) | Aims at building the simplest possible messaging server in C | [**SY40**](# "Principe des systèmes d'exploitation et programmation système sous Linux") | 2024 |
 | [**Hardware sales website**](https://github.com/Wiqiro/WE4E-Project-Hardware-Sales) | Basic PHP hardware sales website | [**WE4A**](# "Technologie et programmation Web") | 2023 |
 | [**IOT environment simulator**](https://github.com/Wiqiro/TD-AP4A) | Simple IOT environment simulator in C++ | [**AP4A**](# "Programmation Orientée Objet: Concepts fondamentaux et mise en pratique avec le langage C++") | 2023 |
 | [**Rebrickable analysis**](https://github.com/Wiqiro/Rebrickable-analysis) | Analysis of the Rebrickable dataset to extract interesting facts about Lego sets and parts in R | [**Data prog.**](# "Data programming with R") | 2023 |
@@ -52,7 +55,7 @@ The project was carried out in an agile team of five students, where I served as
 | [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | Beer review website made in php and using SQL Database | [**IF3E**](# "Introducting to databases") | 2022 |
 | [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.| [**IF2**](# "Algorithmique et programmation : niveau I") | 2022 |
 
-### 🖥 Some of my personal projects
+### 💁‍♂️ My other personal projects
 
 |Project|Description|Status|
 |---|---|:---:|
