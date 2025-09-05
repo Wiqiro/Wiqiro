@@ -13,15 +13,30 @@ My name is William and I'm studying computer engineering at UTBM in France.
 
 ## Here are some of the projects I've been working on
 
+### [🍉 PL$tek project](https://github.com/PLStek)
 
-### 🍉 PL$tek project
 <a href="https://github.com/PLStek">
   <img src="https://github.com/Wiqiro/Wiqiro/assets/85551152/b9327fb9-fb6b-4050-8bd8-1e6159a0176c" align="right" height="80">
 </a>
 
 PL$tek is a discord-based group created to help common core student at UTBM.
-As a member of the project, I'm in charge of developping a new website for centralizing learning resources.
-This includes the creation of an Angular app as well as an API using the FastAPI Python framework.
+As a member of the project, I was in charge of developping a new website to **centralize learning resources.**
+The app was initially built with Angular and FastAPI, and later redesigned to meet new requirements, this time as a single **full-stack Next.js project**.
+
+<br>
+
+
+
+### [🤖 Simplified AI model trainer](https://github.com/DE50-AI-Training)
+
+<a href="https://github.com/DE50-AI-Training">
+  <img src="https://github.com/user-attachments/assets/42d8d282-0d91-4fe0-a997-8d80bd276bed" align="right" height="80">
+</a>
+
+This project was developed during my final semester at UTBM. It is a web app designed to **let non-developers easily create and train simple AI models**.
+Users can import their own datasets, configure a Multi-Layer Perceptron model for classification or regression tasks, and then use the model to make predictions on new inputs.
+
+The project was carried out in an agile team of five students, where I served as **Scrum Master** and **developer**. As a developer, I worked on the API connecting to the training service, as well as the frontend.
 
 <br>
 
