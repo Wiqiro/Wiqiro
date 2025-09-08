@@ -11,7 +11,7 @@
 <br>
 My name is William and I'm studying computer engineering at UTBM in France.
 
-## Here are some of the projects I've been working on 💁‍♂️
+## Here are some of the projects I've been working on 
 
 ### [🍉 PL$tek project](https://github.com/PLStek)
 
@@ -55,7 +55,7 @@ The project was carried out in an agile team of five students, where I served as
 | [**BeerAdvisor**](https://github.com/Wiqiro/IF3E-Project-BeerAdvisor) | Beer review website made in php and using SQL Database | [**IF3E**](# "Introducting to databases") | 2022 |
 | [**ReallyBadChess**](https://github.com/Wiqiro/IF2-Project-ReallyBadChess) | Chess game with customizable grid size and random pieces, as my first school project. Made in C language.| [**IF2**](# "Algorithmique et programmation : niveau I") | 2022 |
 
-### 💁‍♂️ My other personal projects
+### 🧑🏻 My other personal projects
 
 |Project|Description|Status|
 |---|---|:---:|
