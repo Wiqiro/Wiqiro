@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiqiro</h1>
+<h1 align="center">Hi 👋, I'm William</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/wiqiro-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn"/>
   <a href="https://www.linkedin.com/in/wimbert/">
